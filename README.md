@@ -4,7 +4,7 @@ This repository provides a reference implementation of the paper: *Understanding
 
 ## Overview
 
-<img alt="overview" height="300" src="framework.png" width="1332"/>
+<img alt="overview" height="350" src="framework.png" width="1332"/>
 
 ## Requirements
 
