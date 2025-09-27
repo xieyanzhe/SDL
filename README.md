@@ -21,13 +21,14 @@ You can install all the packages by running `pip install -r requirements.txt`. P
 
 ## Datasets
 
-We have uploaded all the datasets used in the paper to [Google Drive](https://drive.google.com/drive/folders/1VJ0jAf2V0K3tUMXqjgXAiOAJ8P3t8goW?usp=sharing). Please download them as needed and ensure to place the downloaded dataset folders in the `data` directory.
+We have uploaded all the datasets used in the paper to [Google Drive]. Please download them as needed and ensure to place the downloaded dataset folders in the `data` directory.
 
 ## Usage
 
 Before running, make sure you have downloaded the dataset and put it in the correct place.
 
 run `python train.py` to train and test.
+
 
 
 
