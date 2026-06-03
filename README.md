@@ -18,6 +18,7 @@ Make sure that you have the following dependencies done:
 >torch_geometric==2.6.1    
 
 You can install all the packages by running `pip install -r requirements.txt`. Please ensure to make minor adjustments to the versions based on your specific CUDA version and environment to avoid disrupting the existing setup.
+Erratum: The correct STDEV.P values of baseline HATR in Table III are 0.1248, 0.1315, 0.0043, 0.0025, 0.0874, 0.0866, 0.0142, and 0.0100. The table writing error does not affect any conclusions.
 
 ## Datasets
 
@@ -28,9 +29,6 @@ We have uploaded all the datasets used in the paper to [Google Drive]. Please do
 Before running, make sure you have downloaded the dataset and put it in the correct place.
 
 run `python train.py` to train and test.
-
-## Erratum
-The correct STDEV.P values of baseline HATR in Table III are 0.1248, 0.1315, 0.0043, 0.0025, 0.0874, 0.0866, 0.0142, and 0.0100. The table writing error does not affect any conclusions.
 
 
 
