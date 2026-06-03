@@ -30,7 +30,7 @@ Before running, make sure you have downloaded the dataset and put it in the corr
 run `python train.py` to train and test.
 
 ## Erratum
-The correct values of baseline HATR in Table III are 0.1248, 0.1315, 0.0043, 0.0025, 0.0874, 0.0866, 0.0142, and 0.0100. The table writing error does not affect any conclusions.
+The correct STDEV.P values of baseline HATR in Table III are 0.1248, 0.1315, 0.0043, 0.0025, 0.0874, 0.0866, 0.0142, and 0.0100. The table writing error does not affect any conclusions.
 
 
 
